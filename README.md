@@ -1,0 +1,5 @@
+# May-Leonard
+May-Leonard Model Simulation Code
+
+The python files in this environment contain the code that was used in the compilation of the dissertation "May-Leonard Models for Competing
+Species".
